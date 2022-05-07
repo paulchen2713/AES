@@ -1,5 +1,5 @@
 # AES
-COM 5335 Network Security Assignment #2 - AES
+## COM 5335 Network Security Assignment #2 - AES
 
 Network Security Assignment 2 AES, by NTHU COM 110064533 Paul
 
@@ -11,8 +11,8 @@ Network Security Assignment 2 AES, by NTHU COM 110064533 Paul
 3.directly run the AES_main.m program can see the results below
   and run the show_Sbox.m can see the forward substitution table
 
-4. main function: AES_main.m
-   sub functions: key_expansion.m, matrix_mult_ARS.m, mult_ARS.m, Sbox.m, show_Sbox.m
+4.main function: AES_main.m
+  sub functions: key_expansion.m, matrix_mult_ARS.m, mult_ARS.m, Sbox.m, show_Sbox.m
 
 Have fun~
 
@@ -29,7 +29,6 @@ Round 8 ciphertext is: cfb83e712fd0715c97ff0d461bc8fb00
 Round 9 ciphertext is: 70b637cebd62abfc91ebbe686c2e5ee7 
 Round 10 ciphertext is: 68464bfd42ecf565f81b487b4d999ef8 
 
---------------------------------------------------------- 
 Round 0 recovertext is: 51aaae947ae9588b81319ab0504e6245 
 Round 1 recovertext is: 8a70d76315160fa388e8b24aaf6ca35a 
 Round 2 recovertext is: 68338f30f678747e22cdaf707f314ad9 
@@ -41,11 +40,8 @@ Round 7 recovertext is: 87c6615a2093c98fa47ba662b3080a48
 Round 8 recovertext is: e29041f39f21d982302a9d92af002202 
 Round 9 recovertext is: 47fa056b1439137b5982e28059396faf 
 Round 10 recovertext is: 6e33547730346b5f3565437572315479 
-
---------------------------------------------------------- 
+ 
 Original plaintext is:   6e33547730346b5f3565437572315479
 Encrypted ciphertext is: 68464bfd42ecf565f81b487b4d999ef8
 Recovered plaintext is:  6e33547730346b5f3565437572315479
 AES-128 secret key is:   78686f74ab206d65203e756e6720d67c
-
----------------------------------------------------------------------------------------
