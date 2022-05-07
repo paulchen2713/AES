@@ -3,13 +3,13 @@
 
 Network Security Assignment 2 AES, by NTHU COM 110064533 Paul   
 
-1.This software demonstrates AES-128, AES-192, and AES-256 basic functionality, contain both Encryption and Decryption process. The implementation follow the NIST official documentation FIPS PUB 197.   
+1. This software demonstrates AES-128, AES-192, and AES-256 basic functionality, contain both Encryption and Decryption process. The implementation follow the NIST official documentation FIPS PUB 197.   
 
-2.Run and tested on MATLAB 2015b   
+2. Run and tested on MATLAB 2015b   
 
-3.Directly run the AES_main.m program can see the results below and run the show_Sbox.m can see the forward substitution table.   
+3. Directly run the AES_main.m program can see the results below and run the show_Sbox.m can see the forward substitution table.   
 
-4.main function: AES_main.m   
+4. main function: AES_main.m   
   sub functions: key_expansion.m, matrix_mult_ARS.m, mult_ARS.m, Sbox.m, show_Sbox.m   
 
 Have fun~   
